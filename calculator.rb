@@ -1,2 +1,2 @@
-sum = first_number _+scond
+sum = first_number + second_number
 
